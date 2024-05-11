@@ -7,21 +7,6 @@
 
  </div>
  
-#### INSTALL TOOL ON TERMUX
-```python
-COMMOND
-pkg update 
-pkg upgrade
-pkg install python
-pkg install git
-pip install requests
-pip install mechanize
-pip install futures
-pip install urllib3
-pip install rich
-pip install bs4
-termux-setup-storage
-```
 
 <p align="center"><img src="https://img.shields.io/badge/I AM %20VEER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
